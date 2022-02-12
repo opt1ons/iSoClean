@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @iSoClean
+- 👋 Hi, I'm @ilyKatana
 - 👀 I'm interested in development (Minecraft / Discord).
 - 🌱 I'm currently learning programming.
-- 💞️ I'm currently working on Spike Network
-- 📫 My discord is: ! SoClean#0320
+- 💞️ I'm currently working on -
+- 📫 My discord is: ! SoClean#4260
 
